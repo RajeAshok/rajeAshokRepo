@@ -1,1 +1,2 @@
 This is our first GIT test
+Now I have updated this text 
